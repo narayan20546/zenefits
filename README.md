@@ -18,4 +18,4 @@ This is just the basic UI as per the challenge provided.
 
 I have used Wamp with php 7.2 to test and run the problem.
 
-Out put will look like.
+Out put will look like screenshot attached
