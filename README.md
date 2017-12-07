@@ -6,6 +6,8 @@ This is a basic employee directory. There are lot of things that can be added, b
 
 Please copy all the files to your htdocs/webroot directory and then it can be acessed as https://localhost/zenefits
 
+Tech stack used: HTML, CSS, php and Js with datatable
+
 Things that could be done in later stages:
 
 1. On clicking employee name open new page with his/her detailed information.
